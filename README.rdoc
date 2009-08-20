@@ -1,0 +1,7 @@
+== Description
+
+This is a simple Rakefile with tasks to initialise rspec in a non-rails project. It is quite similar to http://github.com/andhapp/decoct/ project. It basically creates a spec directory, spec helper file and spec options file.
+
+== Usage
+
+It is quite simple and straight forward to use. Clone the project and copy the Rakefile to the directory that you want to intialize and just do rake initialize:rspec and that's it. If you look at the rake file it is just a handful of tasks creating directory and files.
